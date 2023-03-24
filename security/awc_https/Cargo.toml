@@ -6,4 +6,4 @@ edition = "2018"
 
 [dependencies]
 actix-web = { version = "3", features = ["openssl"] }
-openssl = "0.10.28"
+openssl = "0.10.48"
